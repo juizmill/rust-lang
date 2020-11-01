@@ -47,4 +47,10 @@ fn main() {
     println!("The value of remainder is: {}", remainder);
 
 
+    let cc = 'z';
+    let zz = 'ℤ';
+    let heart_eyed_cat = '😻';
+
+    println!("show char: {}, {}, {}", cc, zz, heart_eyed_cat);
+
 }
